@@ -52,11 +52,10 @@ The dataset includes **300,000 transaction records** used for fraud analysis.
 
 ### Python
 - Pandas
-- NumPy
+- VS Code
 - Jupyter Notebook
 
 ### Database
-- MySQL
 - MySQL Workbench
 
 ---
@@ -155,7 +154,25 @@ Some key insights identified from the analysis:
 ---
 
 # 📁 Repository Structure
-
+fintech-fraud-analysis
+│
+├── data
+│ └── digital_payment_transactions_cleaned.csv
+│
+├── python
+│ └── data_cleaning_eda.ipynb
+│
+├── sql
+│ └── fraud_analysis_queries.sql
+│
+├── images
+│ ├── data_quality_check.png
+│ ├── overall_fraud_rate.png
+│ ├── fraud_by_transaction_type.png
+│ ├── fraud_by_device.png
+│ └── monthly_fraud_trend.png
+│
+└── README.md
 
 
 

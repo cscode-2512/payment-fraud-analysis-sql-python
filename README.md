@@ -156,7 +156,7 @@ Some key insights identified from the analysis:
 - Fraud rates vary across **transaction types and payment channels**
   - 'Wallet' transaction types have highest fraud rate ie 3.33% 
 - Certain **device types show higher fraud activity**
-  -'Web' among the highest with 2.49%
+  - 'Web' among the highest with 2.49%
 - Fraud patterns differ across **merchant categories**
 - TOP 3 cities with highest fraud transaction
   - Chennai= 323 ,Delhi= 313 ,Bangalore=276

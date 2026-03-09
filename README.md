@@ -1,5 +1,15 @@
 # 📊 FinTech Fraud Analysis (Python + MySQL)
 
+## 📊 Project Summary
+
+| Metric | Value |
+|------|------|
+| Dataset Size | 300,000 Transactions |
+| Fraud Records | ~3% |
+| Tools Used | Python, MySQL |
+| Analysis Type | Fraud Pattern Detection |
+| Queries Written | 15+ Analytical Queries |
+
 ## 📌 Project Overview
 
 This project analyzes fraud patterns in digital payment transactions using **Python for data cleaning and preparation** and **MySQL for analytical fraud detection queries**.
@@ -145,3 +155,13 @@ Some key insights identified from the analysis:
 ---
 
 # 📁 Repository Structure
+
+
+
+
+---
+
+# 👨‍💻 Author
+CHAITANYA SHARMA
+Data Analyst Portfolio Project  
+Fraud Detection Analysis using **Python and MySQL**
